@@ -1,2 +1,1 @@
-My first readme
-This file was updated from github
+My first readme in alx
